@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koshtiharshal&label=Profile%20views&color=0e75b6&style=flat" alt="koshtiharshal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koshtiharshal" alt="koshtiharshal" /></a> </p>
-
 - 🔭 I’m currently working on **Improving my programming skills in Python and Data Structures & Algorithms. I'm focused on becoming more efficient, writing cleaner code, and sharpening my problem-solving abilities.**
 
 - 🌱 I’m currently learning **Java, Python, DSA, Flutter ,Databases**
