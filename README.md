@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Flutter Developer | MERN Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Improving my programming skills in Python and Data Structures & Algorithms. I'm focused on becoming more efficient, writing cleaner code, and sharpening my problem-solving abilities.<br><br>🌱 I’m currently learning Java, Python, DSA, Flutter ,Databases<br><br>👯 I’m looking to collaborate on Creative or technical projects that involve coding and team work to grow in the Technology.<br><br>🤝 I’m looking for help with My Placement and its prepration<br><br>📫 How to reach me koshtiharshal51@gmail.com<br><br>⚡ Fun fact I can complete almost any task or work faster than the average person — speed and focus are my secret weapons!
+🔭 I’m currently focusing on improving my programming skills in Python and Data Structures & Algorithms. I'm focused on becoming more efficient, writing cleaner code, and sharpening my problem-solving abilities.<br><br>🌱 I’m currently learning Java, Python, DSA, Flutter ,Databases<br><br>👯 I’m looking to collaborate on Creative or technical projects that involve coding and team work to grow in the Technology.<br><br>🤝 I’m looking for help with My Placement and its prepration<br><br>📫 How to reach me koshtiharshal51@gmail.com<br><br>⚡ Fun fact I can complete almost any task or work faster than the average person — speed and focus are my secret weapons!
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KoshtiHarshal&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoshtiHarshal&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
